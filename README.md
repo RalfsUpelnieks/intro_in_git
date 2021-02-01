@@ -1,1 +1,12 @@
-# intro_in_git
+# Intro in Git commands
+## Autors 
+Ralfs Upelnieks
+
+## komandas
+'''
+git clone https://github.com/RalfsUpelnieks/intro_in_git.git # Lai noklonetu projektu lokali
+
+git add .
+git commit -m "Veiktas izmainas"
+
+'''
